@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>University of California, San Diego</a>
 
@@ -9,14 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Tel: 858-349-1807</p>
-    <p>8875 Costa Verde Blvd</p>
-    <p>San Diego, CA 92122</p>
+    <p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Tel: 858-349-1807
+8875 Costa Verde Blvd
+San Diego, CA 92122
 
 Je pense, donc je suis
 
